@@ -1,0 +1,683 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    margin-left: -80px;
+    
+}
+#footer
+{
+    width: 1366px;
+    height: 500px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+#down
+{
+    width: 180px;
+    margin-right: 50px;
+}
+#icong
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/google-play.png);
+    float: left;
+    margin-left: 10px;
+}
+#iconh
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/apple-black-logo.png);
+    margin-right: 40px;
+    float: right;
+}
+#down p
+{
+    font-size: 25px;
+    margin-top: 50px;
+}
+#watch
+{
+    width: 100px;
+    margin-right: 50px;
+}
+#iconi
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/Youtube.png);
+    
+}
+#watch p
+{
+    font-size: 25px;
+}
+#follow
+{
+    width: 500px;
+}
+
+#iconj
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/facebook.png)no-repeat;
+}
+#iconk
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/instagram.png)no-repeat;
+}
+#iconl
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/twitter.png)no-repeat;
+}
+#iconm
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/linkedin.png)no-repeat;
+}
+#iconj,#iconk,#iconl,#iconm
+{
+    display: inline-block;
+    padding-left: 20px;
+}
+#follow p
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+#footmail
+{
+    margin-left: -160px;
+}
+#footmail input
+{
+    width: 350px;
+    padding: 10px;
+    font-size: 25px;
+    position: absolute;
+    padding-left: 70px;
+    
+}
+#iconn
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/email.png);
+    position: relative;
+    margin: 5px;
+    
+}
+#icong:hover,#iconh:hover,#iconi:hover,#iconj:hover,#iconk:hover,#iconl:hover,#iconm:hover
+{
+    cursor: pointer;
+}
+#down,#watch,#follow,#footmail
+{
+    display: inline-block;
+   
+}
+#footb
+{
+    margin-top: 50px;
+}
+#buyer
+{
+    float: left;
+    margin-right: 300px;
+}
+#buyer h4
+{
+    font-size: 25px;
+}
+#buyer ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#selling 
+{
+    float:left;
+    margin-right: 300px;
+}
+#selling h4
+{
+    font-size: 25px;
+}
+
+#selling ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#company dl dt
+{
+    font-size: 25px;
+    
+}
+#company dl dd
+{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+#buyer,#selling,#company
+{
+    display: inline-block;
+
+}#footer
+{
+    width: 1366px;
+    height: 500px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+#down
+{
+    width: 180px;
+    margin-right: 50px;
+}
+#icong
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/google-play.png);
+    float: left;
+    margin-left: 10px;
+}
+#iconh
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/apple-black-logo.png);
+    margin-right: 40px;
+    float: right;
+}
+#down p
+{
+    font-size: 25px;
+    margin-top: 50px;
+}
+#watch
+{
+    width: 100px;
+    margin-right: 50px;
+}
+#iconi
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/Youtube.png);
+    
+}
+#watch p
+{
+    font-size: 25px;
+}
+#follow
+{
+    width: 500px;
+}
+
+#iconj
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/facebook.png)no-repeat;
+}
+#iconk
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/instagram.png)no-repeat;
+}
+#iconl
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/twitter.png)no-repeat;
+}
+#iconm
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/linkedin.png)no-repeat;
+}
+#iconj,#iconk,#iconl,#iconm
+{
+    display: inline-block;
+    padding-left: 20px;
+}
+#follow p
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+#footmail
+{
+    margin-left: -160px;
+}
+#footmail input
+{
+    width: 350px;
+    padding: 10px;
+    font-size: 25px;
+    position: absolute;
+    padding-left: 70px;
+    
+}
+#iconn
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/email.png);
+    position: relative;
+    margin: 5px;
+    
+}
+#icong:hover,#iconh:hover,#iconi:hover,#iconj:hover,#iconk:hover,#iconl:hover,#iconm:hover
+{
+    cursor: pointer;
+}
+#down,#watch,#follow,#footmail
+{
+    display: inline-block;
+   
+}
+#footb
+{
+    margin-top: 50px;
+}
+#buyer
+{
+    float: left;
+    margin-right: 300px;
+}
+#buyer h4
+{
+    font-size: 25px;
+}
+#buyer ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#selling 
+{
+    float:left;
+    margin-right: 300px;
+}
+#selling h4
+{
+    font-size: 25px;
+}
+
+#selling ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#company dl dt
+{
+    font-size: 25px;
+    
+}
+#company dl dd
+{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+#buyer,#selling,#company
+{
+    display: inline-block;
+
+}#footer
+{
+    width: 1366px;
+    height: 500px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+#down
+{
+    width: 180px;
+    margin-right: 50px;
+}
+#icong
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/google-play.png);
+    float: left;
+    margin-left: 10px;
+}
+#iconh
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/apple-black-logo.png);
+    margin-right: 40px;
+    float: right;
+}
+#down p
+{
+    font-size: 25px;
+    margin-top: 50px;
+}
+#watch
+{
+    width: 100px;
+    margin-right: 50px;
+}
+#iconi
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/Youtube.png);
+    
+}
+#watch p
+{
+    font-size: 25px;
+}
+#follow
+{
+    width: 500px;
+}
+
+#iconj
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/facebook.png)no-repeat;
+}
+#iconk
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/instagram.png)no-repeat;
+}
+#iconl
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/twitter.png)no-repeat;
+}
+#iconm
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/linkedin.png)no-repeat;
+}
+#iconj,#iconk,#iconl,#iconm
+{
+    display: inline-block;
+    padding-left: 20px;
+}
+#follow p
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+#footmail
+{
+    margin-left: -160px;
+}
+#footmail input
+{
+    width: 350px;
+    padding: 10px;
+    font-size: 25px;
+    position: absolute;
+    padding-left: 70px;
+    
+}
+#iconn
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/email.png);
+    position: relative;
+    margin: 5px;
+    
+}
+#icong:hover,#iconh:hover,#iconi:hover,#iconj:hover,#iconk:hover,#iconl:hover,#iconm:hover
+{
+    cursor: pointer;
+}
+#down,#watch,#follow,#footmail
+{
+    display: inline-block;
+   
+}
+#footb
+{
+    margin-top: 50px;
+}
+#buyer
+{
+    float: left;
+    margin-right: 300px;
+}
+#buyer h4
+{
+    font-size: 25px;
+}
+#buyer ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#selling 
+{
+    float:left;
+    margin-right: 300px;
+}
+#selling h4
+{
+    font-size: 25px;
+}
+
+#selling ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#company dl dt
+{
+    font-size: 25px;
+    
+}
+#company dl dd
+{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+#buyer,#selling,#company
+{
+    display: inline-block;
+
+}#footer
+{
+    width: 1366px;
+    height: 500px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+#down
+{
+    width: 180px;
+    margin-right: 50px;
+}
+#icong
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/google-play.png);
+    float: left;
+    margin-left: 10px;
+}
+#iconh
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/apple-black-logo.png);
+    margin-right: 40px;
+    float: right;
+}
+#down p
+{
+    font-size: 25px;
+    margin-top: 50px;
+}
+#watch
+{
+    width: 100px;
+    margin-right: 50px;
+}
+#iconi
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/Youtube.png);
+    
+}
+#watch p
+{
+    font-size: 25px;
+}
+#follow
+{
+    width: 500px;
+}
+
+#iconj
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/facebook.png)no-repeat;
+}
+#iconk
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/instagram.png)no-repeat;
+}
+#iconl
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/twitter.png)no-repeat;
+}
+#iconm
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/linkedin.png)no-repeat;
+}
+#iconj,#iconk,#iconl,#iconm
+{
+    display: inline-block;
+    padding-left: 20px;
+}
+#follow p
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+#footmail
+{
+    margin-left: -160px;
+}
+#footmail input
+{
+    width: 350px;
+    padding: 10px;
+    font-size: 25px;
+    position: absolute;
+    padding-left: 70px;
+    
+}
+#iconn
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/email.png);
+    position: relative;
+    margin: 5px;
+    
+}
+#icong:hover,#iconh:hover,#iconi:hover,#iconj:hover,#iconk:hover,#iconl:hover,#iconm:hover
+{
+    cursor: pointer;
+}
+#down,#watch,#follow,#footmail
+{
+    display: inline-block;
+   
+}
+#footb
+{
+    margin-top: 50px;
+}
+#buyer
+{
+    float: left;
+    margin-right: 300px;
+}
+#buyer h4
+{
+    font-size: 25px;
+}
+#buyer ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#selling 
+{
+    float:left;
+    margin-right: 300px;
+}
+#selling h4
+{
+    font-size: 25px;
+}
+
+#selling ul li{
+    list-style: none;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#company dl dt
+{
+    font-size: 25px;
+    
+}
+#company dl dd
+{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+#buyer,#selling,#company
+{
+    display: inline-block;
+
+}

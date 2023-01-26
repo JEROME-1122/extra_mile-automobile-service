@@ -1,0 +1,217 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#bc
+{
+    width: 1366px;
+    margin-left: -80px;
+}
+#header
+{
+    width: 1366px;
+    height:200px;
+    margin-left: 50px;
+    
+}
+#logo
+{
+    width: 250px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 100px;
+    background: url(img/logo.png) no-repeat;
+    float: left;
+}
+#search
+{
+
+    float: right;
+    margin-right: 700px;
+    margin-top: -45px;
+    font: 30px;
+    
+}
+#search input
+{
+    width: 300px;
+    height: 50px;
+  
+    position: absolute
+}
+#search button
+{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    margin-left: 250px;
+    margin-top: 3px;
+    border: 0px;
+    background: url(icons/search.png)no-repeat;
+}
+#search button:hover
+{
+    cursor: pointer;
+}
+.call{
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.iconb
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/telephone.png);
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.mail
+{
+    float: right;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.icona 
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/email.png);
+    float: right;
+    margin-top: 50px;
+    margin-right: 5px;
+}
+
+#nav
+{
+    width: 1000px;
+    height: 100px;
+    float: left;
+    margin-left: 50px;
+
+}
+#navbar {
+    width: 550px;
+    height: 50px;
+    background-color: red;
+    margin-left: 100px;
+    border-radius: 30px 0px 30px 0px;
+    
+    
+}
+#navbar ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 50px;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+
+#navbar  a
+{
+    color:white;
+	text-decoration: none;
+	font-size: 15px;
+    
+}
+#navbar  a:hover
+{
+    
+    background-color: black;
+    border-radius: 3px;
+}
+#sub_about
+{
+    display: none;
+    
+}
+#about:hover  #sub_about
+{
+    display: block;
+    position: absolute;
+}
+#about:hover #sub_about ul
+{
+    background-color: black;
+}
+
+#about:hover #sub_about ul li
+{
+    display: block;
+    margin: 10px ;
+    width: 100px;
+    padding: 10px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+#about:hover #sub_about ul li a
+{
+    color: red;
+}
+#about:hover #sub_about ul li a:hover
+{
+    color: white;
+    background-color: red;
+}
+
+
+#sub_service
+{
+    display: none;
+}
+#navser:hover #sub_service
+{
+    display: block;
+    position: absolute;
+}
+#navser:hover #sub_service ul
+{
+    background-color: black;
+}
+#navser:hover #sub_service ul li
+{
+    display: block;
+    margin: 10px ;
+    width: 100px;
+    padding: 10px;
+    text-align: left;
+    margin-top: 20px;
+}
+#navser:hover #sub_service ul li a
+{
+    color: red;
+}
+#navser #sub_service ul li a:hover
+{
+    color: white;
+    background-color: red;
+}
+
+
+#banner
+{
+    width: 1366px;
+    height: 500px;
+    background: url(img/banner.jpg)no-repeat;
+    
+}
+#login
+{
+   float: right;
+   margin-top: -16px;
+}
+#login h3{
+    display: inline-block;
+    margin-right: 25px;
+    
+}

@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    margin-left: -80px;
+    
+}
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+
+  #subscribe{
+    margin-top: -300px;
+  
+}
+#suba
+{
+    width: 767px;
+    height: 368px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    border-radius:0px 50px 0px 50px;
+    position: absolute;
+}
+#suba h1
+{
+    font-size: 50px;
+    padding-top: 70px;
+    padding-left: 140px;
+    padding-bottom: 50px;
+}
+#yourmail
+{
+    padding: 20px;
+    width: 300px;
+    margin-left: 280px;
+    position: relative;
+}
+#ok{
+    margin-left: -80px;
+    margin-top: 20px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#ok:hover{
+    cursor: pointer;
+}
+
+#subb
+{
+    width: 767px;
+    height: 368px;
+    background-color: black;
+    color: white;
+    margin-top: 480px;
+    border-radius:50px 0px 50px 0px;
+    position: relative;
+    margin-left: 598px;
+    
+}
+#imgh
+{
+    width: 767px;
+    height: 368px;
+    background: url(img/subsc.png);
+    opacity: 20%;
+}
+#imgh h4
+{
+    font-size: 30px;
+    padding-top: 140px;
+    padding-left: 10px;
+    
+
+}
+#imgh h3
+{
+    font-size: 50px;
+    padding-left: 10px;
+}

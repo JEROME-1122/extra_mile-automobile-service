@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+    
+   
+}
+form{
+    margin-left: 270px;
+    margin-top: 100px;
+}
+#submit
+{
+    width: 200px;
+    height: 70px;
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 30px 0px 30px ;
+}
+#submit:hover
+{
+    cursor: pointer;
+}
+#name,#number,#email,#state,#country,#address,#service
+{
+width: 700px;
+height: 50px;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+label{
+    font-size: 25px;
+}
+
+
+#press
+{
+    margin-left: 125px;
+    margin-top: 1500px;
+    margin-bottom: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

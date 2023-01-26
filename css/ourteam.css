@@ -1,0 +1,218 @@
+
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+
+
+
+#blockb
+{
+    margin-top: 50px;
+    
+}
+#parta,#partb,#partd,#parte,#partg,#parth
+{
+    float: left;
+}
+
+#parta,#partb,#partc,#partd,#parte,#partf,#partg,#parth,#parti,#partj,#partk,#partl,#partm,#partn,#parto
+{
+
+    width: 264px;
+    height: 450px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#partaimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/jamesimg.jpg)no-repeat;
+}
+#partbimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/johnimg.jpg)no-repeat;
+}
+#partcimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/joelimg.jpg)no-repeat;
+}
+#partdimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/kevinimg.jpg)no-repeat;
+}
+#parteimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/jackimg.jpg)no-repeat;
+}
+#partfimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/jeswinimg.jpg)no-repeat;
+}
+#partgimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/sam.jpg)no-repeat;
+}
+#parthimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/marshalimg.jpg)no-repeat;
+}
+#partiimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/rojasimg.jpg)no-repeat;
+}
+#partjimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/hariimg.jpg)no-repeat;
+}
+#partkimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/javis.jpg)no-repeat;
+}
+#partlimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/sunilimg.jpg)no-repeat;
+}
+#partmimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/albert.jpg)no-repeat;
+}
+#partnimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/jenish.jpg)no-repeat;
+}
+#partoimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/praveen.jpg)no-repeat;
+}
+
+#parta h2,#partb h2, #partc h2,#partd h2,#parte h2, #partf h2,#partg h2,#parth h2, #parti h2,#partj h2,#partk h2, #partl h2,#partm h2,#partn h2,#parto h2,#parta h3,#partb h3,#partc h3,#partd h3,#parte h3,#partf h3,#partg h3,#parth h3,#parti h3,#partj h3,#partk h3,#partl h3,#partm h3,#partn h3,#parto h3,.ex,.done
+{
+    margin-top: 15px;
+    margin-left: 32px;
+}
+.rating
+{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: 212px;
+    border-radius: 40px;
+    margin-top: -32px;
+}
+.rating p
+{
+    font-size: 20px;
+    padding-top: 8px;
+    padding-left: 15px;
+}
+
+
+#location
+{
+    margin-left: 250px;
+}
+#press
+{
+    margin-left: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

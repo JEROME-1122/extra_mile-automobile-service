@@ -1,0 +1,365 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+
+
+
+#carservice
+{
+    /* height: 340px; */
+    
+    width: 1088px;
+    
+   
+    
+}
+#carservice h1
+{
+    margin-top: 50px;
+    
+}
+
+
+#carservicea
+{
+    width: 200px;
+    height: 450px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    margin-right: 80px;
+    margin-left: 50px;
+}
+
+#carserviceb
+{
+    width: 200px;
+    height: 450px;
+    margin-right: 80px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+    
+}
+#carservicec
+{
+    width: 200px;
+    height: 450px;
+    margin-right: 80px;
+    margin-top: 50px;
+    float: left;
+    border: 1px solid black;
+    
+    
+}
+#carserviced
+{
+    width: 200px;
+    height: 450px;
+    margin-top: 50px;
+    float: right;
+   margin-right: 100px;
+    border: 1px solid black;
+    
+}
+#carservicee
+{
+    width: 200px;
+    height: 450px;
+    margin-top: 50px;
+    float: left;
+    border: 1px solid black;
+    margin-right: 80px;
+  margin-left: 50px;
+}
+
+#carservicef
+{
+    width: 200px;
+    height: 450px;
+    margin-right: 80px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+    
+}
+#carserviceg
+{
+    width: 200px;
+    height: 450px;
+    margin-right: 80px;
+    margin-top: 50px;
+    float: left;
+    border: 1px solid black;
+    
+    
+}
+#carserviceh
+{
+    width: 200px;
+    height: 450px;
+    margin-top: 50px;
+    float: right;
+    margin-right: 100px;
+    border: 1px solid black;
+    
+}
+#carservicea a,#carserviceb a,#carservicec a,#carserviced a,#carservicee a,#carservicef a,#carserviceg a,#carserviceh a
+{
+    text-decoration: none;
+    color: black;
+}
+#carservicea,#carserviceb,#carservicec,#carserviced,#carservicee,#carservicef,#carserviceg,#carserviceh
+{
+    display: inline-block;
+    transition: 2s;
+}
+#carservicea:hover,#carserviceb:hover,#carservicec:hover,#carserviced:hover,#carservicee:hover,#carservicef:hover,#carserviceg:hover,#carserviceh:hover
+{
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    
+    transition: 2s;
+}
+
+#imgaa
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/acservice.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgab
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/bumperservice.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgac
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/enginediagnostics.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgad 
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/fullservice.jpg)no-repeat;
+    background-size: contain;
+}
+#imgae
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/antilock.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgaf
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/performance.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgag
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/luboil.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgah
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/computerdiagnostics.jpg)no-repeat;
+    background-size: contain;
+}
+
+
+
+#carservicea h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+
+}
+
+#carserviceb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carservicec h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carserviced h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+#carservicee h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+
+}
+
+#carservicef h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carserviceg h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carserviceh h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carservicea p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviceb p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carservicec p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviced p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+#carservicee p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carservicef p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviceg p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviceh p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+
+
+
+#clients
+{
+    margin-top: 1100px;
+    margin-left: 50px;
+   
+}
+#press
+{
+    margin-left: 100px;
+   
+    
+}
+#ads
+{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

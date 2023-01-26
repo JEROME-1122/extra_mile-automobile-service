@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    
+    
+}
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+
+
+  
+#press
+{
+    margin-top: 80px;
+    
+    
+}
+#press h1
+{
+    font-size: 30px;
+    margin-bottom: 30px;
+ margin-left: -150px;
+
+}
+
+#imgi
+{
+    width: 200px;
+    height: 134px;
+    margin-left: 100px;
+    background: url(img/press.png);
+    margin-right: 50px;
+}
+#imgj
+{
+    width: 200px;
+    height: 134px;
+    background: url(img/pressa.png);
+    margin-right: 50px;
+}
+#imgk
+{
+    width: 200px;
+    height: 134px;
+    background: url(img/pressb.png);
+    margin-right: 50px;
+}
+#imgl
+{
+    width: 200px;
+    height: 134px;
+    margin-top: -120px;
+    margin-left: 850px;
+    background: url(img/pressd.png);
+}
+
+#imgi,#imgj,#imgk,#imgl
+{
+    display: inline-block;
+}

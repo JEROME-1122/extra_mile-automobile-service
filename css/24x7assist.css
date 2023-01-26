@@ -1,0 +1,197 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+
+
+#assist
+{
+    
+    margin-right: 20px;
+    width: 1088px;
+   
+    
+}
+#assist h1
+{
+    margin-top: 50px;
+}
+
+
+#assista
+{
+    width: 200px;
+    height: 390px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    margin-right: 80px;
+    margin-left: 150px;
+}
+#assista a,#assistb a,#assistc a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#assistb
+{
+    width: 200px;
+    height: 390px;
+    
+    
+    margin-top: 50px;
+    border: 1px solid black;
+    
+    
+}
+#assistc
+{
+    width: 200px;
+    height: 390px;
+    margin-right: 80px;
+    float: left;
+   
+    margin-top: 50px;
+    border: 1px solid black;    
+}
+
+#assista,#assistb,#assistc
+{
+    display: inline-block;
+    transition: 5sec
+}
+#assista:hover,#assistb:hover,#assistc:hover
+{
+    cursor: pointer;
+    background-color: gray;
+   
+    transition: 5sec
+    ;
+}
+
+#imgaa
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/breakdown.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgab
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/punture.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgac
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/towing.jpg)no-repeat;
+    background-size: contain;
+}
+
+
+
+#assista h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+
+}
+
+#assistb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#assistc h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+
+#assista p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#assistb p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#assistc p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+
+
+
+#clients
+{
+    margin-top: 100px;
+    margin-left: 50px;
+   
+}
+#press
+{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+#ads
+{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

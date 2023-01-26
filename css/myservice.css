@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+      
+}
+.ser{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    margin-bottom: 200px;
+}
+.nam{
+    float: left;
+    width: 100px;
+    margin-right: 20px;
+}
+.num
+{
+    float: left;
+    width: 170px;
+    margin-right: 20px;
+}
+.em{
+    float: left;
+    width: 190px;
+    margin-right: 20px;
+}
+.add{
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}
+.sta{
+    float: left;
+    width: 120px;
+    margin-right: 20px;
+}
+#press
+{
+    margin-left: 125px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

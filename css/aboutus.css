@@ -1,0 +1,175 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+
+
+
+#blocka
+{
+    margin-top: 50px;
+ 
+}
+#parta
+{
+    background-color: black;
+    width: 600px;
+    height: 387px;
+    margin-top: 50px;
+    border-radius: 50px 0px 50px 0px;
+}
+#partaimg
+{
+    width: 600px;
+    height: 387px;
+    background: url(img/aboutimg.png)no-repeat;
+   
+    border-radius: 50px 0px 50px 0px;
+}
+#let
+{
+    color: white;
+    font-size: 45px;
+    margin-top: -60px;
+    margin-left: 180px;
+}
+#num
+{
+    font-size: 300px;
+    color: white;
+    margin-left: 100px;
+    
+}
+#partb
+{
+    width: 600px;
+    height: 387px;
+    border-radius: 0px 50px 0px 50px;
+    background-color: red;
+    color:white;
+    margin-top: -300px;
+    margin-left: 550px;
+}
+#partb p
+{
+    font-size: 35px;
+    padding-top: 65px;
+    margin-left: 50px;
+}
+
+#partc,#partd,#parte
+{
+
+    width: 264px;
+    height: 450px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+#parte{
+    margin-right: 250px;
+   
+    float: right;
+}
+#blockb{
+    margin-top: 100px;
+    
+}
+
+#partcimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 30px;
+    margin-top: 12px;
+    background: url(img/jamesimg.jpg)no-repeat;
+}
+#partdimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/johnimg.jpg)no-repeat;
+}
+#parteimg
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 12px;
+    background: url(img/joelimg.jpg)no-repeat;
+}
+#partc h2,#partd h2 , #parte h2,#partc h3,#partd h3 , #parte h3,.ex,.done
+{
+    margin-top: 15px;
+    margin-left: 32px;
+}
+.rating
+{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: 212px;
+    border-radius: 40px;
+    margin-top: -32px;
+}
+.rating p
+{
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+#clients
+{
+    margin-top: 500px;
+    margin-left: 50px;
+    margin-bottom: 350px;
+}
+#press
+{
+    margin-left: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

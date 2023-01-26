@@ -1,0 +1,716 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+  
+#contenta
+{
+    margin-top: 10px;
+    
+    
+    
+}
+#contenta h2
+{
+margin-top: 20px;
+font-size: 30px;
+
+}
+
+#contparta
+{
+width: 500px;
+float: left;
+margin-top: 30px;
+
+}
+#contparta h3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#contparta p{ 
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+
+#contpartb
+{
+width: 500px;
+float: right;
+margin-top: 30px;
+margin-right: 160px;
+margin-bottom: 50px;
+}
+#contpartb h3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#contpartb p{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#contpartc
+{
+    margin-top: 50px;
+    width: 500px;
+    float: left;
+    
+}
+
+#contpartc h3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#contpartc p{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#contpartd
+{
+width: 500px;
+float: right;
+margin-right: 160px;
+
+
+}
+
+#contpartd h3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#contpartd p{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#contentb
+{
+    margin-top: 500px;
+}
+#parta
+{
+    width: 500px;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    height: 250px;
+    border-radius: 0px 50px 0px 50px;
+}
+
+#text
+{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+#parta h3
+{
+    font-size: 30px;
+    margin-left: 20px;
+
+}
+#parta p
+{
+    margin-top: 30px;
+    width: 308px;
+    margin-left: 20px;
+}
+#partb
+{
+    width: 500px;
+    background-color: red;
+    opacity: 55%;
+    margin-left: 450px;
+    color: white; 
+    height: 250px;
+    margin-top: -200px;
+    border-radius: 50px 0px 50px 0px;
+   
+    
+}
+#partb h3
+{
+    font-size: 30px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+#texta
+{
+    width: 400px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#partb ul li{
+    margin-left: 50px;
+    margin-top: 10px;;
+    
+}
+#contentc
+{
+    margin-top: 100px;
+    
+    margin-bottom: 100px;
+}
+#contentc h2
+{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+#partd
+{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    border-radius: 30px 0px 30px 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 150px;
+    float: left;
+    
+}
+#partd p
+{
+    font-size: 25;
+}
+
+#parte
+{
+    width: 200px;
+    height: 100px;
+    background-color:black;
+    color: white;
+    border-radius: 0px 30px 0px 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    float: left;
+    margin-right: 100px;
+
+}
+#parte p
+{
+    font-size: 25;
+    width: 150px;
+    text-align: center;
+}
+
+#partf
+{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    border-radius: 30px 0px 30px 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#partf p
+{
+    font-size: 25;
+
+}
+
+#nava
+{
+    width: 1000px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    
+}
+#nava h3
+{
+    display: inline-block;
+    padding-right: 200px;
+    font-size: 25px;
+
+}
+
+#service h2
+{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+#carservice
+{
+    
+    margin-right: 20px;
+    width: 1088px;
+    
+}
+
+
+#carservicea
+{
+    width: 200px;
+    height: 375px;
+    float: left;
+    border: 1px solid black;
+    margin-right: 80px;
+   
+}
+
+#carserviceb
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    border: 1px solid black;
+    float: right;
+    
+}
+#carservicec
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    border: 1px solid black;
+    float: right;
+    
+}
+#carserviced
+{
+    width: 200px;
+    height: 375px;
+    border: 1px solid black;
+    float: right;
+}
+
+#img
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/Car-AC-service-in-Madurai.png);
+}
+
+#imga
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/car-bumper.png);
+}
+
+#imgb
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/diagnostics-ols.png);
+}
+
+#imgc
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/full\ service.png);
+}
+
+
+
+#carservicea h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+
+}
+
+#carserviceb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carservicec h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carserviced h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#carservicea p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviceb p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carservicec p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#carserviced p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+
+
+#sub_bike
+{
+    display: none;
+}
+#bike:hover #sub_bike
+{
+    display: block;
+    position: absolute;
+
+}
+
+#sub_bike
+{
+    /* height: 340px; */
+    margin-right: 20px;
+    width: 1088px;
+    margin-left: -360px;
+    background-color: white;
+    margin-top: 30px;
+    
+}
+
+
+#bikeservicea
+{
+    width: 200px;
+    height: 375px;
+    float: left;
+    border: 1px solid black;
+    margin-right: 80px;
+}
+
+#bikeserviceb
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    border: 1px solid black;
+    float: right;
+    
+}
+#bikeservicec
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    border: 1px solid black;
+    float: right;
+    
+}
+#bikeserviced
+{
+    width: 200px;
+    height: 375px;
+    border: 1px solid black;
+    float: right;
+}
+
+#imgp
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/Car-AC-service-in-Madurai.png);
+}
+
+#imgq
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/car-bumper.png);
+}
+
+#imgr
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/diagnostics-ols.png);
+}
+
+#imgs
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/full\ service.png);
+}
+
+
+
+#bikeservicea h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+
+}
+
+#bikeserviceb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#bikeservicec h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#bikeserviced h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#bikeservicea p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+#bikeserviceb p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+#bikeservicec p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+#bikeserviced p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+
+#sub_assist
+{
+    display: none;
+}
+#assist:hover #sub_assist
+{
+    display: block;
+    position: absolute;
+
+}
+
+#sub_assist
+{
+    /* height: 340px; */
+    margin-right: 20px;
+    width: 1100px;
+    margin-left: -700px;
+    background-color: white;
+    margin-top: 30px;
+    
+}
+
+
+#assista
+{
+    width: 200px;
+    height: 375px;
+    float: left;
+    border: 1px solid black;
+    margin-right: 170px;
+   
+}
+
+#assistb
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 170px;
+    border: 1px solid black;
+    float: right;
+    
+}
+#assistc
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    border: 1px solid black;
+    float: right;
+    
+}
+
+
+#imgt
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/Car-AC-service-in-Madurai.png);
+}
+
+#imgu
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/car-bumper.png);
+}
+
+#imgv
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/diagnostics-ols.png);
+}
+
+#assista h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+
+}
+
+#assistb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#assistc h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#assista p
+{
+    width: 175px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+#assistb p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+
+#assistc p
+{
+    width: 166px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: normal
+}
+#clients
+{
+    margin-top: 500px;
+    margin-left: 50px;
+    margin-bottom: 350px;
+}
+#press
+{
+    margin-left: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

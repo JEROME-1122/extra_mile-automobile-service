@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    margin-left: 180px;
+    
+}
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+  
+#blockc
+{
+    width: 1088px;
+    height: 180px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+    
+
+}
+#blockca
+{
+    width: 380px;
+    height: 154px;
+    background-color: red;
+    border-radius: 0px 30px 0px 30px;
+   margin-top: 20px;
+   color: white;
+   position: absolute
+   float:left;
+}
+#blockca p
+{
+    font-size: 20px;
+    margin-left: 70px;
+    padding-top: 35px;
+    
+}
+#loc
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/location.png)no-repeat;
+    position: relative;
+    margin-top: -45px;
+    margin-left: 20px;
+}
+#blockcb
+{
+    width: 380px;
+    height: 154px;
+    background-color: black;
+    opacity: 67%;
+    border-radius: 30px 0px 30px 0px;
+    margin-left: 350px;
+    color: white;
+    position: absolute;
+    margin-top: -180px;
+}
+#calls
+{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    background: url(icons/telephone.png)no-repeat;
+}
+#blockcb p
+{
+    font-size: 25px;
+    padding-top:40px;
+    margin-left: 80px;
+}
+#blockcc
+{
+    width: 380px;
+    height: 154px;
+    background-color: red;
+    border-radius: 0px 30px 0px 30px;
+    margin-top: 100px;
+    color: white;
+    margin-top: -150px;
+    margin-left: 700px;
+}
+#blockcc p
+{
+    font-size: 25px;
+    margin-left: 90px;
+    padding-top: 35px;
+
+}
+#mmail
+{
+    width: 45px;
+    height: 45px;
+    margin-top: -50px;
+    margin-left: 40px;
+    background: url(icons/email.png)no-repeat;
+}

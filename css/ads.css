@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    
+    
+}
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+  #add
+  {
+      width: 1366px;
+      height: 436px;
+      background-color:gray;
+      margin-top: 80px;
+      
+  }
+  #imgm
+  {
+      width: 200px;
+      height: 375px;
+      background: url(img/add.png)no-repeat;
+      float: left;
+      margin-left: 80px;
+      margin-top: 50px;
+  }
+  #adda
+  {
+      margin-left: 180px;
+      margin-top: 120px;
+  }
+  #adda p
+  {
+      font-size: 40px;
+      color:white;
+  
+  }
+  
+  #imgn
+  {
+      width: 391px;
+      height: 125px;
+      background: url(img/googleplay.png);
+  }
+  #imgn:hover,#imgo:hover
+  {
+      cursor: pointer;
+  }
+  #imgo
+  {
+      width: 391px;
+      height: 125px;
+      background: url(img/appstore.png);
+  }
+  
+  
+  #imgn,#imgo
+  {
+      display: inline-block;
+      margin-top: 50px;
+  }
+  #imgm, #adda
+  {
+      display: inline-block;
+  }

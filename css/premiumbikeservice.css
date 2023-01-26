@@ -1,0 +1,157 @@
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+   
+}
+
+
+#service
+{
+    margin-top: 50px;
+
+}
+#parta,#partb,#partc
+{
+    margin-left: 90px;
+    width: 996px;
+}
+#parta h2
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#parta p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+#cimg
+{
+    width: 996px;
+    height: 480px;
+    background: url(img/premiumservice.jpg)no-repeat;
+    background-size: cover;
+    margin-bottom: 40px;
+}
+#partb ul{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+#partb ul li
+{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+
+#partc
+{
+    width: 444px;
+    height: 430px;
+    background-color: red;
+    border-radius: 0px 50px 0px 50px;
+    color: white;
+    margin-left: 300px;
+
+}
+#partc h4
+{
+    font-size: 30px;
+    padding-top: 40px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+}
+.rs
+{
+    font-size: 25px;
+    padding-top: 20px;
+    margin-left: 160px; 
+}
+.m
+{
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top:30px;
+}
+
+.buy
+{
+    width: 150px;
+    height: 75px;
+    margin-left: 147px;
+    margin-top: 50px;
+}
+
+
+#partd
+{
+    width: 444px;
+    height: 446px;
+    background-color: black;
+    border-radius: 50px 0px 50px 0px;
+    color: white;
+    float: right;
+    margin-right: 200px;
+    
+}
+.buya
+{
+    font-size: 25px;
+    padding-top: 22px;
+    margin-left: 16px;
+}
+.buya a
+{
+    text-decoration: none;
+    color: white;
+}
+.buy:hover,.buy a:hover
+{
+    font-weight: bold;
+}
+
+
+#press
+{
+    margin-left: 125px;
+    margin-top: 1500px;
+    margin-bottom: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

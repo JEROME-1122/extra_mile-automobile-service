@@ -1,0 +1,190 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+    margin-bottom: 500px;
+}
+
+
+
+
+
+#blocka
+{
+    width: 1088px;
+    height: 356px;
+    margin-top: 100px;
+    
+    
+}
+#map
+{
+    width: 812px;
+    height: 356px;
+    background: url(img/map.png);
+    float: left;
+}
+#details
+{
+    width: 276px;
+    height: 345px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+
+#details h3
+{
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#details p
+{
+    font-size: 20px;
+    padding-left:10px;
+}
+
+
+#map,#details
+{
+    display: inline-block;
+}
+
+
+
+#parta
+{
+    width: 536px;
+    height: 669px;
+    background-color: #F3ECEC;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+#parta h3
+{
+    font-size: 35px;
+    padding: 20px;
+}
+#day,#time
+{
+    display: inline-block;
+}
+#day p
+{
+    font-size: 25px;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+#time p
+{
+    font-size: 25px;
+    padding-left: -80px;
+    padding-top: 50px;
+}
+#parta,#partb
+{
+    display: inline-block;
+}
+#partb
+{
+    width: 444px;
+    height: 225px;
+    margin-top: 300px;
+    margin-right: -926px;
+    background-color:#B4B0B0 ;
+   
+}
+#partb h4
+{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#in
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/linkedin.png)no-repeat;
+    padding-right: 40px;
+    margin-left: 25px;
+}
+#fb
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/facebook.png)no-repeat;
+    padding-right: 40px;
+}
+#tw
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/twitter.png)no-repeat;
+    padding-right: 40px;
+}
+#insta
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/instagram.png)no-repeat;
+    padding-right: 40px;
+}
+#go
+{
+    width: 45px;
+    height: 45px;
+    background: url(icons/google.png)no-repeat;
+}
+#in,#fb,#tw,#insta,#go
+{
+    display: inline-block;
+   margin-top: 30px;
+}
+
+#location{
+    margin-left: 250px;   
+}
+#press
+{
+    margin-left: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

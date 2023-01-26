@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#bc
+{
+    width: 1366px;
+    
+    
+}
+section{
+    position: relative;
+   
+    
+}
+.main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+ }
+.second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+}
+
+#faq
+{
+      margin-top: 50px;
+      
+}
+#faq h1
+  {
+      margin-bottom: 20px;
+}
+#faq ol li
+  {
+      margin-top: 20px;
+      margin-left: 50px;
+      font-size: 20px;
+      padding-bottom: 20px;
+}
+
+
+#press
+{
+    margin-left: 100px;
+   
+}
+#ads
+{
+    margin-left: 120px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}

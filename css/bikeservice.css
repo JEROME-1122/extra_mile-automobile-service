@@ -1,0 +1,228 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    position: relative;
+   
+    
+  }
+  .main-title{
+    font-size: 2em;
+   justify-content: center;
+   display: flex;
+    margin-bottom: 50px;
+  }
+  .second-title{
+    font-size: 2em;
+    justify-content: center;
+    display: flex;
+   
+  }
+
+#next{
+    margin-top: 600px;
+    margin-left: 150px;
+}
+
+
+
+
+
+#bikeservice
+{
+    
+    margin-right: 20px;
+    width: 1088px;
+    
+    
+}
+#bikeservice h1
+{
+    margin-top: 50px;
+}
+
+
+#bikeservicea
+{
+    width: 200px;
+    height: 375px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    margin-right: 80px;
+}
+
+#bikeserviceb
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+    
+}
+#bikeservicec
+{
+    width: 200px;
+    height: 375px;
+    margin-right: 80px;
+    float: left;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+    
+}
+#bikeserviced
+{
+    width: 200px;
+    height: 375px;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+}
+#bikeservicea a,#bikeserviceb a,#bikeservicec a,#bikeserviced a
+{
+    text-decoration: none;
+    color: black;
+}
+#bikeservicea,#bikeserviceb,#bikeservicec,#bikeserviced
+{
+    display: inline-block;
+    transition: 5sec
+}
+#bikeservicea:hover,#bikeserviceb:hover,#bikeservicec:hover,#bikeserviced:hover
+{
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    transition: 5sec
+    ;
+}
+
+#imgaa
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/generalservice.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgab
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/premiumservice.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgac
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/bike\ repir.jpg)no-repeat;
+    background-size: contain;
+}
+
+#imgad 
+{
+    width: 168px;
+    height: 112px;
+    margin-left: 16px;
+    margin-top: 15px;
+    background: url(img/bike\ wash.jpg)no-repeat;
+    background-size: contain;
+}
+
+#bikeservicea h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+
+}
+
+#bikeserviceb h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#bikeservicec h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+#bikeserviced h4
+{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+
+#bikeservicea p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#bikeserviceb p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#bikeservicec p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+#bikeserviced p
+{
+    width: 166px;
+    margin-left: 20px;
+}
+
+
+
+
+
+#clients
+{
+    margin-top: 100px;
+    margin-left: 50px;
+   
+}
+#press
+{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+#ads
+{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+#foot
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
